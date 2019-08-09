@@ -8,4 +8,8 @@
 8.Spring Boot,Spring Cloud,Doubo；
 9.微服务；
 10.java集合；
-11.Maven
+11.Maven；
+12.网络知识；
+13.数据结构；
+14.性能优化；
+15.设计模式；
